@@ -1,0 +1,6 @@
+{
+  "publicNetworking": [
+    { "port": 15636, "protocol": "UDP" },
+    { "port": 15637, "protocol": "UDP" }
+  ]
+}
